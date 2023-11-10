@@ -15,8 +15,8 @@ Unveiling Insights,Transforming Data:Where Numbers Tell the Stoty with Python.
 - [Project 1 Name](Link): Brief description.
 - [Project 2 Name](Link): Brief description. -->
 
-## 📊 GitHub Stats
-[![GitHub Stats](Badge Link)](Your GitHub Stats Page Link)
+<!-- ## 📊 GitHub Stats
+[![GitHub Stats](Badge Link)](Your GitHub Stats Page Link) -->
 
 ## 🌐 Interests
 
